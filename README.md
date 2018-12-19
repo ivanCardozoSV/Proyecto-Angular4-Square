@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Platzisquare
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Proyecto-Angular4-Square
+Esta es la version de Angular 4 , pero con codigo de angular 6 en el proyecto Square.
+>>>>>>> ea3eadc066ce9bd403599199b09e5938dd26149c
