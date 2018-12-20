@@ -25,12 +25,11 @@ import { AutorizacionService } from './services/autorizacion.service';
 import { MyGuardService } from './services/my-guard.service';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyDmIjBYqhpY1C84SPjvMv_fb4RN0QC8pIY",
-   authDomain: "square-222302.firebaseapp.com",
-   databaseURL: "https://square-222302.firebaseio.com",
-   projectId: "square-222302",
-   storageBucket: "square-222302.appspot.com",
-   messagingSenderId: "489584955398"
+  apiKey: 'AIzaSyDPvu4le2PsD5Upg92KvT6weuTsp1NhO-U',
+  authDomain: 'platzisquare-210502.firebaseapp.com',
+  databaseURL: 'https://platzisquare-210502.firebaseio.com',
+  storageBucket: 'platzisquare-210502.appspot.com',
+  messagingSenderId: '196236982915'
 };
 
 @NgModule({
@@ -57,7 +56,7 @@ export const firebaseConfig = {
     AngularFireDatabaseModule,
     AngularFireAuthModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBQVf0ORpvGRSLetPtUGzJfgTXz8p4SVK8'
+      apiKey: 'AIzaSyD13zATHhMoZlzi9FYJr17MSff79h5tlAg'
     })
   ],
   providers: [LugaresService, AutorizacionService, MyGuardService],
